@@ -1,0 +1,47 @@
+body {
+  background-color: mintcream;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+#newsApp {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  width: 250px;
+  height: auto;
+  margin: 10px;
+}
+
+.card-img-top {
+  width: 250px;
+  height: 140px;
+}
+
+
+button {
+  background-color: rgb(38, 147, 242);
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.row {
+  width: 250px;
+  height: auto;
+  margin: 20px;
+  border: 2px solid blue;
+  padding: 10px;
+}
